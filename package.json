@@ -1,6 +1,6 @@
 {
   "name": "okaccounts",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Tests for OKAccounts",
   "main": "index.js",
   "scripts": {
