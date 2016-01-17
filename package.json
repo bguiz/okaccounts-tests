@@ -1,0 +1,25 @@
+{
+  "name": "okaccounts",
+  "version": "0.0.0",
+  "description": "Tests for OKAccounts",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -u bdd -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bguiz/okaccounts-tests.git"
+  },
+  "keywords": [
+    "okaccounts",
+    "account",
+    "payment",
+    "test"
+  ],
+  "author": "bguiz",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/bguiz/okaccounts-tests/issues"
+  },
+  "homepage": "https://github.com/bguiz/okaccounts-tests#readme"
+}
